@@ -1,0 +1,38 @@
+{
+  "dates": [
+    {
+      "date": "11-Sep-2026",
+      "stocks": [
+        {
+          "name": "RELIANCE",
+          "pointers": [
+            "Breakout above 2950 resistance on 2x avg volume",
+            "RSI(14) crossed 60 from below",
+            "Price closed above 20 & 50 EMA",
+            "Watch for retest of 2950 as new support"
+          ]
+        },
+        {
+          "name": "TCS",
+          "pointers": [
+            "Consolidation breakout above 4120",
+            "Volume spike vs 20-day average",
+            "MACD bullish crossover on daily chart"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "10-Sep-2026",
+      "stocks": [
+        {
+          "name": "HDFCBANK",
+          "pointers": [
+            "Cup and handle breakout above 1680",
+            "Delivery % higher than 10-day average"
+          ]
+        }
+      ]
+    }
+  ]
+}
